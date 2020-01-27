@@ -2,4 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 
 Alice is my friend!
 
-Alice is also my sister!!!!
+Alice is also my sister
