@@ -1,4 +1,9 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+
+Alice is in wonderland
+
+this is the interactive base example
+
 Local changes for stash example
 <<<<<<< HEAD
 <<<<<<< HEAD
