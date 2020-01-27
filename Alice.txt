@@ -1,11 +1,13 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 
 <<<<<<< HEAD
-Hello
+<<<<<<< HEAD
+
 
 
 
 =======
-
-Hello
 >>>>>>> d78db6606487398fae04601068a57d4f83a017b0
+=======
+
+>>>>>>> refs/remotes/origin/master
