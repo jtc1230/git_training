@@ -1,6 +1,10 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 
-Alice is my friend!
+<<<<<<< HEAD
 
-Alice is also my sister
-bro
+
+
+
+=======
+
+>>>>>>> d78db6606487398fae04601068a57d4f83a017b0
